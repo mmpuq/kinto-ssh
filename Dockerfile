@@ -3,4 +3,4 @@
 FROM pch18/baota:clear
 
 
-EXPOSE 8888
+EXPOSE 8888:8888
